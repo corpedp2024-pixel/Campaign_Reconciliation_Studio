@@ -1239,4 +1239,4 @@ st.markdown("""
     📱 Phone numbers normalized to rightmost 10 digits
     </small>
 </div>
-""", unsafe_allow_html=True)
+""", unsafe_allow_html=True)    
